@@ -22,7 +22,7 @@ Aplicativo mobile desenvolvido em **React Native** com **Expo** para catálogo d
 
 1. **[Node.js](https://nodejs.org/)** (v18+)
 2. **Expo Go** instalado no celular ([Android](https://play.google.com/store/apps/details?id=host.exp.exponent) | [iOS](https://apps.apple.com/app/expo-go/id982107779)) ou navegador web
-3. **Backend rodando:** siga as instruções no [Repositório do Backend](https://github.com/Kauaax7/anime-backend)
+
 
 ---
 
@@ -76,7 +76,4 @@ anime-frontend/
 
 ---
 
-## 🌐 Repositório do Backend
 
-A API Node.js + Express + Mongoose correspondente está em:  
-👉 [Repositório Backend - Anime](https://github.com/Kauaax7/anime-backend)
