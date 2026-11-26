@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Anime",
+    "slug": "anime-frontend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {}
+  }
+}
