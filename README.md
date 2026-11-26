@@ -32,7 +32,7 @@ Todos os dados vêm e são salvos no backend (MongoDB). Se a API estiver fora do
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/kakafls007-bit/Front-end-PWA-.git
+git clone https://github.com/Faelreina/Front-end-PWA-
 cd Front-end-PWA-
 ```
 
